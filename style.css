@@ -1,0 +1,13 @@
+body{
+    background-color: rgb(0, 0, 68);
+    color: white;
+    font-weight: bold;
+    font-style: italic;
+    font-size: 25px;
+}
+
+nav {
+    text-align: center;
+    margin-top: 160px;
+}
+
